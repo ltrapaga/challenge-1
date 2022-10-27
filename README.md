@@ -154,5 +154,10 @@ You are required to submit the following for review:
 
 * The URL of the GitHub repository, with a unique name and a README that describes the project.
 
+Screenshot:
+
+ ![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/115514660/198166415-e239b0dc-57be-41aa-bff5-42e93a8fdc9d.png)
+
+
 ---
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
